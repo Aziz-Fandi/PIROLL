@@ -1,0 +1,138 @@
+.top-head {
+  background-image: url(../../Image/aidan-hancock-8RU4OuA6Yug-unsplash.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.nav-link {
+  color: #141414;
+}
+
+.nav-link:focus {
+  color: #10c9c3;
+}
+
+.nav-link:hover {
+  color: #10c9c3;
+}
+
+.head-title {
+  padding: 125px 0 175px 0;
+}
+
+.btn-contactus {
+  background-color: #10c9c3;
+}
+
+/*_________________________________________________________Skills_______________________________________________________________*/
+.skills {
+  background-image: url(../../Image/jess-bailey-ucHgBfJo0WE-unsplash.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 100px 0;
+}
+
+/*_________________________________________________________information__________________________*/
+.information {
+  padding: 50px 0;
+}
+
+.para {
+  font-size: small;
+}
+
+/*_________________________________________________________photos_______________________________*/
+.photos {
+  background-color: #f5f5f5;
+}
+
+.img-fluid {
+  width: 350px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.loadmore {
+  text-decoration: none;
+  color: #959595;
+}
+
+/*______________________________________________icons__________________________________________*/
+.icons {
+  background-color: #f5f5f5;
+}
+
+/*____________________________________________comments__________________________________________*/
+#carouselExampleIndicators {
+  height: 300px;
+}
+
+.comments {
+  padding: 100px 0 0 0;
+}
+
+.carousel-inner {
+  margin-bottom: 75px;
+}
+
+/*__________________________________________needproject________________________________________*/
+.needproject {
+  background-color: #f5f5f5;
+  padding: 75px 0;
+}
+
+.form-control {
+  border: 0;
+}
+
+/*________________________________________footerpiroll__________________________________________*/
+.footerpiroll {
+  background-color: #141414;
+}
+
+.folink {
+  color: #f5f5f5;
+}
+
+.folink:hover {
+  color: #10c9c3;
+}
+
+/*________________________________________Home.html_____________________________________________________________*/
+.content-photo {
+  background-color: #f6f6f6;
+}
+
+.aziz {
+  height: 300px;
+}
+
+/*________________________________________About.html_____________________________________________________________*/
+/*___________________________________top-about____________________________________________*/
+.top-about {
+  background-image: url(../../Image/pexels-moose-photos-1036623.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 150px 0 150px 0;
+}
+
+.container-top {
+  width: 35%;
+}
+
+/*________________________about-aboutme_________________________________________________*/
+.about-aboutme {
+  background-color: #d3c9c7;
+}
+
+/*________________________________________contact.html_____________________________________________________________*/
+.contact-info {
+  padding: 100px 0;
+  background-color: #f6f6f6;
+}
+
+/*_____________________________________map______________________________________________*/
+.map {
+  background-color: #f6f6f6;
+}
+/*# sourceMappingURL=piroll.css.map */
